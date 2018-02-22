@@ -1,0 +1,25 @@
+body{
+    background-color: cornsilk;
+}
+
+.groupSquare{
+    background-color: black;
+    width: 150px;
+    height: 150px;
+    margin: 10px 0px 10px 170px;
+}
+#square1{
+    margin-top: 50px;
+}
+#square2{
+    opacity: 0.65;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+#square3{
+    opacity: 0.4;
+    filter: alpha(opacity=40); /* For IE8 and earlier  */
+}
+#square4{
+    opacity: 0.2;
+    filter: alpha(opacity=20); /* For IE8 and earlier  */
+}
